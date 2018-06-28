@@ -1,0 +1,105 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="projetohangar.com.br" resolutions="1x" timestamp="1529967540228">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="432791854" ref="index"/>
+    <file name="inscri__es.css" crc="3922518139" ref="inscrições"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:inscrições"/>
+    <file name="museutils.js" crc="340535759" ref="index:inscrições"/>
+    <file name="whatinput.js" crc="86476730" ref="index:inscrições"/>
+    <file name="museconfig.js" crc="310584261" ref="index:inscrições"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:inscrições"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:inscrições"/>
+    <file name="require.js" crc="7928878" ref="index:inscrições"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="361931482" ref="index"/>
+    <file name="artwork-2.svg" crc="226586918" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 2_poster_.png" crc="3825936950" ref="index"/>
+    <file name="u1482-6.png" crc="4247216311" ref="index"/>
+    <file name="artwork-5.svg" crc="152040002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 5_poster_.png" crc="4154626370" ref="index"/>
+    <file name="u1479-7.png" crc="3801225772" ref="index"/>
+    <file name="artwork-3.svg" crc="3775436212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 3_poster_.png" crc="120153971" ref="index"/>
+    <file name="artwork-6.svg" crc="285877203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 6_poster_.png" crc="39127066" ref="index"/>
+    <file name="design thinking.svg" crc="72060541" ref="index"/>
+    <file name="design thinking_poster_u1506.png" crc="474716596" ref="index"/>
+    <file name="background.jpg" crc="4155583062" ref="index:inscrições"/>
+    <file name="artwork-11.svg" crc="476040073" seo="true" ref="index:inscrições">
+      <caption webpage="index" alt=""/>
+      <caption webpage="inscrições" alt=""/>
+    </file>
+    <file name="artwork 11_poster_.png" crc="441816757" ref="index"/>
+    <file name="layer 1-u1400-fr.png" crc="4095658253" ref="index"/>
+    <file name="foto_foguete.png" crc="3930172276" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1480-8.png" crc="4239676607" ref="index"/>
+    <file name="artwork-1.svg" crc="4058722074" seo="true" ref="index:inscrições">
+      <caption webpage="index" alt=""/>
+      <caption webpage="inscrições" alt=""/>
+    </file>
+    <file name="artwork 1_poster_.png" crc="28796412" ref="index"/>
+    <file name="artwork-4.svg" crc="385891011" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 4_poster_.png" crc="504000525" ref="index"/>
+    <file name="u1936.png" crc="3948805839" ref="index"/>
+    <file name="u1936-r.png" crc="4181595004" ref="index"/>
+    <file name="u847.png" crc="21635351" ref="index"/>
+    <file name="u847-r.png" crc="3801846841" ref="index"/>
+    <file name="mail.svg" crc="59959211" seo="true" ref="index:inscrições">
+      <caption webpage="index" alt=""/>
+      <caption webpage="inscrições" alt=""/>
+      <caption webpage="inscrições" alt=""/>
+    </file>
+    <file name="mail_poster_.png" crc="505853389" ref="index"/>
+    <file name="giflogo.gif" crc="128531401" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="footer.png" crc="4197464083" ref="index:inscrições">
+      <caption webpage="index" alt=""/>
+      <caption webpage="inscrições" alt=""/>
+    </file>
+    <file name="u1802.png" crc="462231795" ref="inscrições"/>
+    <file name="u1802-r.png" crc="4089470165" ref="inscrições"/>
+    <file name="artwork-8.svg" crc="50923932" seo="true" ref="inscrições">
+      <caption webpage="inscrições" alt=""/>
+    </file>
+    <file name="artwork 8_poster_.png" crc="423688103" ref="inscrições"/>
+    <file name="asset 5-u2085.png" crc="350408239" ref="inscrições"/>
+    <file name="asset 5-u2085-r.png" crc="3907773725" ref="inscrições"/>
+    <file name="asset 5-u2085-m.png" crc="3957980605" ref="inscrições"/>
+    <file name="asset 6-u2091.png" crc="3949521762" ref="inscrições"/>
+    <file name="asset 6-u2091-r.png" crc="386074492" ref="inscrições"/>
+    <file name="asset 6-u2091-m.png" crc="4069669446" ref="inscrições"/>
+    <file name="asset 7-u2115.png" crc="475467074" ref="inscrições"/>
+    <file name="asset 7-u2115-r.png" crc="4233047380" ref="inscrições"/>
+    <file name="asset 7-u2115-m.png" crc="354559653" ref="inscrições"/>
+    <file name="asset 8-u2121.png" crc="4292857830" ref="inscrições"/>
+    <file name="asset 8-u2121-r.png" crc="4274590286" ref="inscrições"/>
+    <file name="asset 8-u2121-m.png" crc="237171713" ref="inscrições"/>
+    <file name="artwork-9.svg" crc="4060597264" seo="true" ref="inscrições">
+      <caption webpage="inscrições" alt=""/>
+    </file>
+    <file name="artwork 9_poster_.png" crc="347669676" ref="inscrições"/>
+    <file name="artwork-10.svg" crc="3988095281" seo="true" ref="inscrições">
+      <caption webpage="inscrições" alt=""/>
+    </file>
+    <file name="artwork 10_poster_.png" crc="493398864" ref="inscrições"/>
+  </folder>
+  <file name="index.html" crc="3913352353" seo="true" mt="1529967490276" redirect="true"/>
+  <file name="inscrições.html" crc="3917586463" seo="true" mt="1529965613353" redirect="true"/>
+</manifest>
